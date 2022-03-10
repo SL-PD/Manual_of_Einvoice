@@ -10,12 +10,12 @@
 #### <span style="color:blue">Step1. 登入系統</span>
 ![image info](img/02.png)
 ##### <span style="color:red">(1)</span>點選[Login]
-
+<hr>
 #### <span style="color:blue">Step2. 輸入使用者名稱</span>
 ![image info](img/03.png)
 ##### <span style="color:red">(2)</span>使用者密碼：輸入[root]
 ##### <span style="color:red">(3)</span>密碼：輸入[public(預設)]
-
+<hr>
 #### <span style="color:blue">Step3. 啟用雲端列印</span>
 ![image info](img/04.png)
 ##### <span style="color:red">(4)</span> 點選 [CloudPRNT]
@@ -23,11 +23,11 @@
 ##### <span style="color:red">(6)</span> Server URL：輸入 [https://webapi.systemlead.com/starprinter/]
 ##### <span style="color:red">(7)</span> Polling time(Sec.)：修改為 [3]
 ##### <span style="color:red">(8)</span> 點選 [Submit]
-
+<hr>
 #### <span style="color:blue">Step4. 儲存設定</span>
 ![image info](img/05.png)
 ##### <span style="color:red">(9)</span> 點選 [Save]
-
+<hr>
 #### <span style="color:blue">Step5. 重啟印表機</span>
 ![image info](img/06.png)
 ##### <span style="color:red">(10)</span> 選擇 [Save -> Restart device]
