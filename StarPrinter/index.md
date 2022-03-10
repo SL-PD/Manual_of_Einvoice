@@ -3,8 +3,10 @@
 ### 階段1. 查詢 MAC Address 並將紅框處回報[e首發票]客服註冊 
 #### 此階段需先將MAC Address(紅色框選處) 回報[e首發票]客服，確認系統註冊完成後，再進行階段2步驟。
 ![image info](img/01.png)
-#### <span style="color:red">請務必完成階段1步驟且待[e首發票]客服通知再進行階段2步驟.</span>
+## <span style="color:red">請務必完成階段1步驟且待[e首發票]客服通知再進行階段2步驟.</span>
+
 ### 階段2. 設定啟用雲端列印
+
 #### Step1. 登入系統
 ![image info](img/02.png)
 ##### <span style="color:red">(1)</span>點選[Login]
@@ -31,5 +33,4 @@
 ##### <span style="color:red">(10)</span> 選擇 [Save -> Restart device]
 ##### <span style="color:red">(11)</span> 點選 [Execute]
 
-<br />
 ## <span style="color:red">重啟後請回報[e首發票]客服，並且[e首發票]客服會協助進行列印測試</span>.
