@@ -8,22 +8,22 @@
 #### Step1. 點選<span style="color:red">(1)</span>[Login]
 ![image info](img/02.png)
 #### Step2. 輸入使用者名稱
-##### (2)使用者密碼：輸入[root]
-##### (3)密碼：輸入[public(預設)]
+##### <span style="color:red">(2)</span>使用者密碼：輸入[root]
+##### <span style="color:red">(3)</span>密碼：輸入[public(預設)]
 ![image info](img/03.png)
 #### Step3. 啟用雲端列印 <br />
-##### (4) 點選 [CloudPRNT] <br />
-##### (5) CloudPRNT Service：選擇 [ENABLE]  <br />
-##### (6) Server URL：輸入 [https://webapi.systemlead.com/starprinter/]  <br />
-##### (7) Polling time(Sec.)：修改為 [3]  <br />
-##### (8) 點選 [Submit] <br />
+##### <span style="color:red">(4)</span> 點選 [CloudPRNT] <br />
+##### <span style="color:red">(5)</span> CloudPRNT Service：選擇 [ENABLE]  <br />
+##### <span style="color:red">(6)</span> Server URL：輸入 [https://webapi.systemlead.com/starprinter/]  <br />
+##### <span style="color:red">(7)</span> Polling time(Sec.)：修改為 [3]  <br />
+##### <span style="color:red">(8)</span> 點選 [Submit] <br />
 ![image info](img/04.png)
 #### Step4. 儲存設定
-##### (9) 點選 [Save] <br />
+##### <span style="color:red">(9)</span> 點選 [Save] <br />
 ![image info](img/05.png)
 #### Step5. 重啟印表機
-##### (10) 選擇 [Save -> Restart device]
-##### (11) 點選 [Execute]
+##### <span style="color:red">(10)</span> 選擇 [Save -> Restart device]
+##### <span style="color:red">(11)</span> 點選 [Execute]
 ![image info](img/06.png)
 <br />
 ## <span style="color:red">重啟後請回報[e首發票]客服，並且[e首發票]客服會協助進行列印測試</span>.
