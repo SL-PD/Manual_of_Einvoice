@@ -7,16 +7,16 @@
 
 ### 階段2. 設定啟用雲端列印
 
-#### Step1. 登入系統
+#### <span style="color:blue">Step1. 登入系統</span>
 ![image info](img/02.png)
 ##### <span style="color:red">(1)</span>點選[Login]
 
-#### Step2. 輸入使用者名稱
+#### <span style="color:blue">Step2. 輸入使用者名稱</span>
 ![image info](img/03.png)
 ##### <span style="color:red">(2)</span>使用者密碼：輸入[root]
 ##### <span style="color:red">(3)</span>密碼：輸入[public(預設)]
 
-#### Step3. 啟用雲端列印 <br />
+#### <span style="color:blue">Step3. 啟用雲端列印</span>
 ![image info](img/04.png)
 ##### <span style="color:red">(4)</span> 點選 [CloudPRNT]
 ##### <span style="color:red">(5)</span> CloudPRNT Service：選擇 [ENABLE]
@@ -24,11 +24,11 @@
 ##### <span style="color:red">(7)</span> Polling time(Sec.)：修改為 [3]
 ##### <span style="color:red">(8)</span> 點選 [Submit]
 
-#### Step4. 儲存設定
+#### <span style="color:blue">Step4. 儲存設定</span>
 ![image info](img/05.png)
 ##### <span style="color:red">(9)</span> 點選 [Save]
 
-#### Step5. 重啟印表機
+#### <span style="color:blue">Step5. 重啟印表機</span>
 ![image info](img/06.png)
 ##### <span style="color:red">(10)</span> 選擇 [Save -> Restart device]
 ##### <span style="color:red">(11)</span> 點選 [Execute]
