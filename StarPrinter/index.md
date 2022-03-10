@@ -1,4 +1,4 @@
-## <span style="color:red">設定StarPrinter請先將印表機接上電源並且連接網路</span>.
+## <p style="color:red">設定StarPrinter請先將印表機接上電源並且連接網路</p>.
 
 ### 階段1. 查詢 MAC Address 並將紅框處回報[e首發票]客服註冊 
 #### 此階段需先將MAC Address(紅色框選處) 回報[e首發票]客服，確認系統註冊完成後，再進行階段2步驟。
