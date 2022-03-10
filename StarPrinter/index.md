@@ -16,15 +16,15 @@
 
 #### Step3. 啟用雲端列印 <br />
 ![image info](img/04.png)
-##### <span style="color:red">(4)</span> 點選 [CloudPRNT] <br />
-##### <span style="color:red">(5)</span> CloudPRNT Service：選擇 [ENABLE]  <br />
-##### <span style="color:red">(6)</span> Server URL：輸入 [https://webapi.systemlead.com/starprinter/]  <br />
-##### <span style="color:red">(7)</span> Polling time(Sec.)：修改為 [3]  <br />
-##### <span style="color:red">(8)</span> 點選 [Submit] <br />
+##### <span style="color:red">(4)</span> 點選 [CloudPRNT]
+##### <span style="color:red">(5)</span> CloudPRNT Service：選擇 [ENABLE]
+##### <span style="color:red">(6)</span> Server URL：輸入 [https://webapi.systemlead.com/starprinter/]
+##### <span style="color:red">(7)</span> Polling time(Sec.)：修改為 [3]
+##### <span style="color:red">(8)</span> 點選 [Submit]
 
 #### Step4. 儲存設定
 ![image info](img/05.png)
-##### <span style="color:red">(9)</span> 點選 [Save] <br />
+##### <span style="color:red">(9)</span> 點選 [Save]
 
 #### Step5. 重啟印表機
 ![image info](img/06.png)
