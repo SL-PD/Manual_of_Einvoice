@@ -5,7 +5,8 @@
 ![image info](img/01.png)
 #### <span style="color:red">請務必完成階段1步驟且待[e首發票]客服通知再進行階段2步驟.</span>
 ### 階段2. 設定啟用雲端列印
-#### Step1. 點選<span style="color:red">(1)</span>[Login]
+#### Step1. 登入系統
+##### <span style="color:red">(1)</span>點選[Login]
 ![image info](img/02.png)
 #### Step2. 輸入使用者名稱
 ##### <span style="color:red">(2)</span>使用者密碼：輸入[root]
